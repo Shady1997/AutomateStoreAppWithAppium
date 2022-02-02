@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T20:18:07 EET" name="Suite" finished-at="2022-02-02T20:19:18 EET" duration-ms="71175">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T20:18:07 EET" name="Test" finished-at="2022-02-02T20:19:18 EET" duration-ms="71175">
+      <class name="main.main">
+        <test-method is-config="true" signature="prepare()[pri:0, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:07 EET" name="prepare" finished-at="2022-02-02T20:18:21 EET" duration-ms="13995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepare -->
+        <test-method signature="checkToastErrorMessage()[pri:1, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:21 EET" name="checkToastErrorMessage" finished-at="2022-02-02T20:18:26 EET" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkToastErrorMessage -->
+        <test-method signature="chooseUserCountry()[pri:2, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:26 EET" name="chooseUserCountry" finished-at="2022-02-02T20:18:49 EET" duration-ms="23161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseUserCountry -->
+        <test-method signature="addUserName()[pri:3, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:49 EET" name="addUserName" finished-at="2022-02-02T20:18:52 EET" duration-ms="2343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserName -->
+        <test-method signature="chooseGender()[pri:4, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:52 EET" name="chooseGender" finished-at="2022-02-02T20:18:53 EET" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseGender -->
+        <test-method signature="goToProductsPage()[pri:5, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:53 EET" name="goToProductsPage" finished-at="2022-02-02T20:18:53 EET" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToProductsPage -->
+        <test-method signature="selectAllProducts()[pri:6, instance:main.main@576d5deb]" started-at="2022-02-02T20:18:53 EET" name="selectAllProducts" finished-at="2022-02-02T20:19:14 EET" duration-ms="21505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAllProducts -->
+        <test-method signature="goToPaymentPage()[pri:7, instance:main.main@576d5deb]" started-at="2022-02-02T20:19:14 EET" name="goToPaymentPage" finished-at="2022-02-02T20:19:15 EET" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToPaymentPage -->
+        <test-method signature="checkConfirmationBox()[pri:8, instance:main.main@576d5deb]" started-at="2022-02-02T20:19:15 EET" name="checkConfirmationBox" finished-at="2022-02-02T20:19:17 EET" duration-ms="1998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkConfirmationBox -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:main.main@576d5deb]" started-at="2022-02-02T20:19:17 EET" name="TearDown" finished-at="2022-02-02T20:19:18 EET" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- main.main -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
