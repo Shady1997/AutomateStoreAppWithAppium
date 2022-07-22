@@ -5,8 +5,15 @@
     <classes>
       <class name="main.main">
         <methods>
+          <include name="chooseGender"/>
+          <include name="goToProductsPage"/>
+          <include name="addUserName"/>
+          <include name="goToPaymentPage"/>
           <include name="checkToastErrorMessage"/>
+          <include name="checkConfirmationBox"/>
+          <include name="selectAllProducts"/>
           <include name="prepare"/>
+          <include name="chooseUserCountry"/>
           <include name="TearDown"/>
         </methods>
       </class> <!-- main.main -->
