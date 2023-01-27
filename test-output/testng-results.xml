@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-24T16:43:10 EET" name="Suite" finished-at="2022-06-24T16:44:31 EET" duration-ms="80566">
+  <suite started-at="2022-07-29T18:31:46 EET" name="Suite" finished-at="2022-07-29T18:32:57 EET" duration-ms="70888">
     <groups>
     </groups>
-    <test started-at="2022-06-24T16:43:10 EET" name="Test" finished-at="2022-06-24T16:44:31 EET" duration-ms="80566">
+    <test started-at="2022-07-29T18:31:46 EET" name="Test" finished-at="2022-07-29T18:32:57 EET" duration-ms="70888">
       <class name="main.main">
-        <test-method is-config="true" signature="prepare()[pri:0, instance:main.main@4f80542f]" started-at="2022-06-24T16:43:10 EET" name="prepare" finished-at="2022-06-24T16:43:27 EET" duration-ms="16596" status="PASS">
+        <test-method is-config="true" signature="prepare()[pri:0, instance:main.main@51c668e3]" started-at="2022-07-29T18:31:46 EET" name="prepare" finished-at="2022-07-29T18:31:59 EET" duration-ms="12886" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prepare -->
-        <test-method signature="checkToastErrorMessage()[pri:1, instance:main.main@4f80542f]" started-at="2022-06-24T16:43:27 EET" name="checkToastErrorMessage" finished-at="2022-06-24T16:43:33 EET" duration-ms="6409" status="PASS">
+        <test-method signature="checkToastErrorMessage()[pri:1, instance:main.main@51c668e3]" started-at="2022-07-29T18:31:59 EET" name="checkToastErrorMessage" finished-at="2022-07-29T18:32:05 EET" duration-ms="5252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkToastErrorMessage -->
-        <test-method signature="chooseUserCountry()[pri:2, instance:main.main@4f80542f]" started-at="2022-06-24T16:43:33 EET" name="chooseUserCountry" finished-at="2022-06-24T16:43:59 EET" duration-ms="25607" status="PASS">
+        <test-method signature="chooseUserCountry()[pri:2, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:05 EET" name="chooseUserCountry" finished-at="2022-07-29T18:32:28 EET" duration-ms="23437" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseUserCountry -->
-        <test-method signature="addUserName()[pri:3, instance:main.main@4f80542f]" started-at="2022-06-24T16:43:59 EET" name="addUserName" finished-at="2022-06-24T16:44:03 EET" duration-ms="3716" status="PASS">
+        <test-method signature="addUserName()[pri:3, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:28 EET" name="addUserName" finished-at="2022-07-29T18:32:31 EET" duration-ms="2789" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addUserName -->
-        <test-method signature="chooseGender()[pri:4, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:03 EET" name="chooseGender" finished-at="2022-06-24T16:44:04 EET" duration-ms="1560" status="PASS">
+        <test-method signature="chooseGender()[pri:4, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:31 EET" name="chooseGender" finished-at="2022-07-29T18:32:32 EET" duration-ms="1250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseGender -->
-        <test-method signature="goToProductsPage()[pri:5, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:04 EET" name="goToProductsPage" finished-at="2022-06-24T16:44:05 EET" duration-ms="214" status="PASS">
+        <test-method signature="goToProductsPage()[pri:5, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:32 EET" name="goToProductsPage" finished-at="2022-07-29T18:32:32 EET" duration-ms="180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToProductsPage -->
-        <test-method signature="selectAllProducts()[pri:6, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:05 EET" name="selectAllProducts" finished-at="2022-06-24T16:44:28 EET" duration-ms="22963" status="PASS">
+        <test-method signature="selectAllProducts()[pri:6, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:32 EET" name="selectAllProducts" finished-at="2022-07-29T18:32:54 EET" duration-ms="21899" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectAllProducts -->
-        <test-method signature="goToPaymentPage()[pri:7, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:28 EET" name="goToPaymentPage" finished-at="2022-06-24T16:44:29 EET" duration-ms="1126" status="PASS">
+        <test-method signature="goToPaymentPage()[pri:7, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:54 EET" name="goToPaymentPage" finished-at="2022-07-29T18:32:55 EET" duration-ms="951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToPaymentPage -->
-        <test-method signature="checkConfirmationBox()[pri:8, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:29 EET" name="checkConfirmationBox" finished-at="2022-06-24T16:44:31 EET" duration-ms="1856" status="PASS">
+        <test-method signature="checkConfirmationBox()[pri:8, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:55 EET" name="checkConfirmationBox" finished-at="2022-07-29T18:32:57 EET" duration-ms="1688" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkConfirmationBox -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:main.main@4f80542f]" started-at="2022-06-24T16:44:31 EET" name="TearDown" finished-at="2022-06-24T16:44:31 EET" duration-ms="428" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:main.main@51c668e3]" started-at="2022-07-29T18:32:57 EET" name="TearDown" finished-at="2022-07-29T18:32:57 EET" duration-ms="471" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
